@@ -18,19 +18,19 @@ npm run build
 
 ### Screenshorts
 > Header Settings:
-- ![Image One.]()
+- ![Image One.](https://raw.github.com/ridwanishaq/frontend-task/blob/master/src/assets/screenshorts/1.png)
 
 > Media Hub:
-- ![Image Two.]()
+- ![Image Two.](https://raw.github.com/ridwanishaq/frontend-task/blob/master/src/assets/screenshorts/2.png)
 
 > Keywords to include in the text:
-- ![Image Three.]()
+- ![Image Three.](https://raw.github.com/ridwanishaq/frontend-task/blob/master/src/assets/screenshorts/3.png)
 
 > Connect to Web:
-- ![Image Four.]()
+- ![Image Four.](https://raw.github.com/ridwanishaq/frontend-task/blob/master/src/assets/screenshorts/4.png)
 
 > Document:
-- ![Image Five.]()
+- ![Image Five.](https://raw.github.com/ridwanishaq/frontend-task/blob/master/src/assets/screenshorts/5.png)
 
 
 ### Customize configuration
