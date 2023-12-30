@@ -20,5 +20,23 @@ npm run build
 npm run lint
 ```
 
+
+### Screenshorts
+> Header Settings:
+- ![Image One.]()
+
+> Media Hub:
+- ![Image Two.]()
+
+> Keywords to include in the text:
+- ![Image Three.]()
+
+> Connect to Web:
+- ![Image Four.]()
+
+> Document:
+- ![Image Five.]()
+
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
